@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/suppliesfitness/eslint-config-gymboxx-typescript/issues"
   },
-  "homepage": "https://github.com/suppliesfitness/eslint-config-gymboxx-typescript#readme"
+  "homepage": "https://github.com/suppliesfitness/eslint-config-gymboxx-typescript#readme",
+  "dependencies": {
+    "eslint-config-standard-with-typescript": "^21.0.1",
+    "@typescript-eslint/eslint-plugin": "^4.31.2",
+    "eslint": "^7.32.0",
+    "eslint-plugin-import": "^2.24.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.0"
+  }
 }
