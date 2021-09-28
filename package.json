@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-gymboxx-typescript",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "eslint rules for gymboxx system",
   "main": "index.js",
   "scripts": {
