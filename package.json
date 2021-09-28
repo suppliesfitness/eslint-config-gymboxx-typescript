@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-gymboxx-typescript",
+  "version": "0.0.1",
+  "description": "eslint rules for gymboxx system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suppliesfitness/eslint-config-gymboxx-typescript.git"
+  },
+  "author": "kimcrab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suppliesfitness/eslint-config-gymboxx-typescript/issues"
+  },
+  "homepage": "https://github.com/suppliesfitness/eslint-config-gymboxx-typescript#readme"
+}
