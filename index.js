@@ -1,6 +1,7 @@
 module.exports = {
     extends: 'standard-with-typescript',
     rules: {
+        '@typescript-eslint/strict-boolean-expressions': 0,
         '@typescript-eslint/naming-convention': [
             'error',
             {
@@ -39,6 +40,18 @@ module.exports = {
 
         'comma-dangle': ['error', 'always-multiline'],
         'camelcase': 'off',
+        "indent": "off",
+        "@typescript-eslint/indent": [
+            "error",
+            2,
+            {
+                "ignoredNodes": [
+                    "FunctionExpression > .params[decorators.length > 0]",
+                    "FunctionExpression > .params > :matches(Decorator, :not(:first-child))",
+                    "ClassBody.body > PropertyDefinition[decorators.length > 0] > .key"
+                ]
+            }
+        ]
     },
     reportUnusedDisableDirectives: true,
 }
