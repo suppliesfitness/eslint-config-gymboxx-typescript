@@ -59,3 +59,7 @@ Create `.eslintrc.json` file at the top of the project directory like below.
 * [standardjs(original)](https://standardjs.com/rules.html)
 * [extended rules for typescript originated from standardjs](https://github.com/standard/eslint-config-standard-with-typescript/blob/master/src/index.ts)
 
+## Reference
+* https://github.com/standard/eslint-config-standard-with-typescript/blob/master/src/index.ts
+* https://www.npmjs.com/package/eslint-config-airbnb-typescript
+* https://www.npmjs.com/package/eslint-config-flitto-typescript
