@@ -27,6 +27,6 @@ Create `.eslintrc.json` file at the top of the project directory like below.
 ```
 
 ## Reference
-* https://github.com/standard/eslint-config-standard-with-typescript/blob/master/src/index.ts
+* https://github.com/standard/eslint-config-standard-with-typescript
 * https://www.npmjs.com/package/eslint-config-airbnb-typescript
 * https://www.npmjs.com/package/eslint-config-flitto-typescript
