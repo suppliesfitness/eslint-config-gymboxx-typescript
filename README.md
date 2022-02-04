@@ -8,7 +8,7 @@ npm install --save-dev \
   eslint-plugin-node@^11.1.0 \
   eslint-plugin-promise@^5.0.0 \
   @typescript-eslint/eslint-plugin@^4.0.1 \
-  eslint-config-flitto-typescript@latest
+  eslint-config-gymboxx-typescript@latest
 ``` 
 
 ### 2. Create Eslint configuration file
