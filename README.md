@@ -20,7 +20,7 @@ Create `.eslintrc.json` file at the top of the project directory like below.
   "parserOptions": {
     "project": "./tsconfig.json"
   },
-  "extends": "flitto-typescript",
+  "extends": "gymboxx-typescript",
   "rules": {
   }
 }
